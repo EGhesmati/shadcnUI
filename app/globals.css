@@ -79,6 +79,6 @@
 
 .glass-navbar ::selection,
 footer ::selection {
-    background-color: hsl(217 91% 60%);
+    background-color: #000;
     color: #fff;
 }
